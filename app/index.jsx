@@ -1,7 +1,4 @@
-Vue.component('app-nav', {
-  template: '<li>This is a todo</li>'
-})
-
+import nav from './components/nav'
 
 const app = new Vue({
   el: '#app',
