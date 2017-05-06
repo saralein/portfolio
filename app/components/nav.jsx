@@ -1,5 +1,5 @@
 const nav = Vue.component('app-nav', {
-  template: '<li>This is a todo</li>'
+  template: '<nav>This is a todo</nav>'
 })
 
 export default nav
